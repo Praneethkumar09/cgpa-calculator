@@ -1,3 +1,7 @@
-export default function App() {
-  return <h1>CGPA WORKING 🚀</h1>;
+import CGPACalculator from "./components/CGPACalculator";
+
+function App() {
+  return <CGPACalculator />;
 }
+
+export default App;
