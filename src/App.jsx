@@ -1,3 +1,3 @@
 export default function App() {
-  return <h1>DEPLOY TEST OK</h1>;
+  return <h1>CGPA WORKING 🚀</h1>;
 }
